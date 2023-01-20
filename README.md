@@ -6,6 +6,6 @@
 ### :heart_eyes_cat: constantly asking why
 ### :heart_eyes_cat: technology trends
 
-## my attitude
+## 2. my attitude
 ### :eyes: I always doubt if I really understand.
 ### :eyes: Always ask why and ask again
