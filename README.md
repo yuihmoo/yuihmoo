@@ -1,11 +1,17 @@
-## Hi EveryOne 👋
+# Hi EveryOne. I'm Developer Yukart 👋
 
-## 1. My Interest
-### :heart_eyes_cat: Data Analysis
-### :heart_eyes_cat: Creating a small but really necessary program for me
-### :heart_eyes_cat: Constantly asking why
-### :heart_eyes_cat: Technology trends
+## 1. 관심 있는
+### 🚀: AI
+### ✨: 작지만 나에게 꼭 필요한 프로그램 개발
+### 📝: 효율적인 정리법
+### 🧑‍💻: 클린 코드
 
-## 2. my attitude
-### :eyes: I always doubt if I really understand.
-### :eyes: Always ask why and ask again
+## 2. 지향 하는
+### 🧐: 스스로를 항상 의심하는 것
+### 🙈: 몰랐을 때 부끄러워 하자
+### 
+
+## 3. 경험한 기술
+
+
+## 4. 현재 사용중인 기술
